@@ -1,10 +1,10 @@
 var game = {
     data: {
-        score : 99999,
-        steps: 99999,
-        start: true,
-        newHiScore: true,
-        muted: true
+        score : 50,
+        steps: 50,
+        start: false,
+        newHiScore: false,
+        muted: false
     },
 
     "onload": function() {
