@@ -1,7 +1,7 @@
 var game = {
     data: {
         score : 99999,
-        steps: 0,
+        steps: 99999,
         start: false,
         newHiScore: false,
         muted: false
