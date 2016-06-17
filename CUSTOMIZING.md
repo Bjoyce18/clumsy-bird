@@ -9,7 +9,7 @@ If you want to add your own assets to the game, this is the list of the assets u
 below with your own customization. Remember to keep the names and sizes.
 
 - [bg.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/bg.png) - Size: `900x504px`. This is the Background image used in the game.
-- [clumsy.png](https://lh5.googleusercontent.com/-Sv0q6lkSAGM/AAAAAAAAAAI/AAAAAAAAADA/V2au8qwIkVA/s0-c-k-no-ns/photo.jpg) - Size: `255x60px` . This is the bird animation image. It contains 3 animation frames.
+- [clumsy.png](http://freepngimages.com/wp-content/uploads/2016/01/donald-trump-transparent-image.png) - Size: `255x60px` . This is the bird animation image. It contains 3 animation frames.
 - [gameover.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/gameover.png) - Size: `245x132px`. The Game Over logo.
 - [gameoverbg.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/gameoverbg.png) - Size: `505x361px`. This is the Game Over square background used for the scores.
 - [getready.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/getready.png) - Size: `405x134px`. This is the initial message before the game starts.
